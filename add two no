@@ -1,0 +1,9 @@
+# Add two numbers
+num1 = 10
+num2 = 20
+
+# Find the sum
+sum = num1 + num2
+
+# Print the sum in English
+print("The sum of", num1, "and", num2, "is", sum)
